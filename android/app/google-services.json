@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245840413281",
+    "project_id": "emoface-9900",
+    "storage_bucket": "emoface-9900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245840413281:android:1ef63a2c29bf44f745e020",
+        "android_client_info": {
+          "package_name": "com.emoface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245840413281-sdj21bme5jju8chn4c2velflpk1o219v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrS4dsUlDhmnw5_XbtnrP6eh3U49Whwbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245840413281-sdj21bme5jju8chn4c2velflpk1o219v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
