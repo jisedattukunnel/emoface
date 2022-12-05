@@ -20,6 +20,7 @@ export default StyleSheet.create({
     fontSize: 40,
     fontFamily: 'Poppins-SemiBold',
     marginTop: 20,
+    color:'grey',
   },
   appLogo: {
     justifyContent: 'center',
@@ -36,7 +37,7 @@ export default StyleSheet.create({
   },
   loginTxt: {
     fontFamily: 'Poppins-SemiBold',
-    color: '#fff',
+    color: '#000',
     fontSize: 15,
   },
   NewUser: {
@@ -48,8 +49,10 @@ export default StyleSheet.create({
   },
   noAccntTxt: {
     fontFamily: 'Poppins-Regular',
+    color:'grey',
   },
   registerNowBtn: {
     fontFamily: 'Poppins-SemiBold',
+    color:'grey',
   },
 });
