@@ -58,6 +58,7 @@ const LoginScreen = () => {
             onChangeText={text => setEmail(text)}
             style={styles.input}
             placeholder="Username"
+            placeholderTextColor={'grey'}
           />
         </View>
 
@@ -66,6 +67,7 @@ const LoginScreen = () => {
             style={styles.input}
             onChangeText={text => setPassword(text)}
             placeholder="Password"
+            placeholderTextColor={'grey'}
           />
         </View>
         <TouchableOpacity onPress={() => login()} style={styles.loginBtn}>
